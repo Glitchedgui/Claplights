@@ -4,7 +4,8 @@
     "dependencies": {
         "core": "*",
         "radio": "*",
-        "microphone": "*"
+        "microphone": "*",
+        "Clap Lights": "github:glitchedgui/claplights#2d06eb07cd7d98b2e41cdf1dd0fe61d5907b0862"
     },
     "files": [
         "main.blocks",
